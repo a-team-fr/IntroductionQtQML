@@ -1,0 +1,44 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Header.qml</file>
+        <file>Footer.qml</file>
+        <file>content/FlickrPane.qml</file>
+        <file>Assets.qml</file>
+        <file>res/fonts/fontawesome-webfont.ttf</file>
+        <file>res/audio/scanQrOk.wav</file>
+        <file>components/ATButtonText.qml</file>
+        <file>components/ATText.qml</file>
+        <file>res/fonts/Arista2.0 light.ttf</file>
+        <file>res/fonts/Arista2.0.ttf</file>
+        <file>AboutDialog.qml</file>
+        <file>SettingsDialog.qml</file>
+        <file>content/Clocks/WorldClocks.qml</file>
+        <file>content/Clocks/Clock.qml</file>
+        <file>res/img/steel.jpeg</file>
+        <file>content/Sensors/SensorsPane.qml</file>
+        <file>content/Sensors/EADI.qml</file>
+        <file>res/img/eadi_cache.png</file>
+        <file>res/img/eadi_couronne.png</file>
+        <file>content/Sensors/MovingBall.qml</file>
+        <file>content/Sensors/AHRS.qml</file>
+        <file>content/Sensors/SensorsPane2.qml</file>
+        <file>content/Camera.qml</file>
+        <file>res/img/cam_change.png</file>
+        <file>res/img/cam_delay_off.png</file>
+        <file>res/img/cam_delay.png</file>
+        <file>res/img/cam_flash_auto.png</file>
+        <file>res/img/cam_flash_fill.png</file>
+        <file>res/img/cam_flash_off.png</file>
+        <file>res/img/cam_flash_redeye.png</file>
+        <file>res/img/cross.png</file>
+        <file>components/ATColImageSelector.qml</file>
+        <file>translations/QtQML_fr-FR.qm</file>
+        <file>Welcome.qml</file>
+        <file>res/img/a-teamLogo.png</file>
+        <file>content/Geoloc.qml</file>
+        <file>res/img/bike.png</file>
+        <file>res/img/poi.png</file>
+        <file>content/GeolocControlPanel.qml</file>
+    </qresource>
+</RCC>
